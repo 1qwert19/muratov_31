@@ -1,0 +1,54 @@
+Tue Nov 26 02:27:42 2024
+ Programm start
+Tue Nov 26 02:27:57 2024
+ User select case 1
+Tue Nov 26 02:28:10 2024
+ User add pipe with name: 1, id: 1
+Tue Nov 26 02:28:12 2024
+ User select case 1
+Tue Nov 26 02:28:29 2024
+ User add pipe with name: sdf, id: 2
+Tue Nov 26 02:28:31 2024
+ User select case 2
+Tue Nov 26 02:28:39 2024
+ User add CS with name: , id: 1
+Tue Nov 26 02:28:41 2024
+ User select case 3
+Tue Nov 26 02:28:45 2024
+ User select case 4
+Tue Nov 26 02:28:45 2024
+ User change pipe with id: 2
+Tue Nov 26 02:28:51 2024
+ User select case 4
+Tue Nov 26 02:28:51 2024
+ User change pipe with id: 2
+Tue Nov 26 02:28:53 2024
+ User select case 4
+Tue Nov 26 02:28:53 2024
+ User change pipe with id: 2
+Tue Nov 26 02:28:55 2024
+ User select case 4
+Tue Nov 26 02:28:55 2024
+ User change pipe with id: 2
+Tue Nov 26 02:28:58 2024
+ User select case 5
+Tue Nov 26 02:29:02 2024
+ User change pipe with id: 1
+Tue Nov 26 02:29:05 2024
+ User select case 6
+Tue Nov 26 02:29:10 2024
+ User select case 9
+Tue Nov 26 02:29:30 2024
+ User find pipe with namesdf
+Tue Nov 26 02:29:50 2024
+ User cant change pipe with id: 123
+Tue Nov 26 02:29:50 2024
+ User change pipe with id: 1
+Tue Nov 26 02:29:50 2024
+ User change pipe with id: 2
+Tue Nov 26 02:29:50 2024
+ User cant change pipe with id: 3
+Tue Nov 26 02:29:50 2024
+ User cant change pipe with id: 4
+Tue Nov 26 02:29:58 2024
+ User select case 0
